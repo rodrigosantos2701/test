@@ -8,6 +8,7 @@ function App() {
   const test2 = 2;
   const test3 = 3;
   const test4 = 4;
+  const test5 = 5;
 
   return (
     <>
@@ -39,6 +40,7 @@ function App() {
       <h1>{test2}</h1>
       <h1>{test3}</h1>
       <h1>{test4}</h1>
+      <h1>{test5}</h1>
     </>
   );
 }
