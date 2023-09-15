@@ -5,6 +5,7 @@ import "./App.css";
 
 function App() {
   const [count, setCount] = useState(0);
+  const test2 = 2;
 
   return (
     <>
@@ -32,6 +33,8 @@ function App() {
       <p className="read-the-docs">change on main</p>
 
       <p className="read-the-docs">new change on main</p>
+
+      <h1>{test2}</h1>
     </>
   );
 }
