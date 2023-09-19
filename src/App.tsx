@@ -10,6 +10,7 @@ function App() {
   const test4 = 444444;
   const test5 = 555555;
   const test7 = 77777;
+  const test6 = 66666;
 
   //esta é a main
 
@@ -45,6 +46,7 @@ function App() {
       <h1>{test4}</h1>
       <h1>{test5}</h1>
       <h1>{test7}</h1>
+      <h1>{test6}</h1>
     </>
   );
 }
