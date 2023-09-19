@@ -9,6 +9,8 @@ function App() {
   const test3 = 3;
   const test4 = 444444;
   const test5 = 555555;
+  const test7 = 77777;
+
   //esta é a main
 
   return (
@@ -42,6 +44,7 @@ function App() {
       <h1>{test3}</h1>
       <h1>{test4}</h1>
       <h1>{test5}</h1>
+      <h1>{test7}</h1>
     </>
   );
 }
